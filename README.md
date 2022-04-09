@@ -22,10 +22,10 @@
       height="40"
     />
   </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/kotlin/kotlin-icon.svg"
-      alt="kotlin"
+      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
+      alt="jenkins"
       width="40"
       height="40"
     />
@@ -38,10 +38,10 @@
       height="40"
     />
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-      alt="flask"
+      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+      alt="heroku"
       width="40"
       height="40"
     />
@@ -62,10 +62,18 @@
       height="40"
     />
   </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-      alt="heroku"
+      src="https://www.vectorlogo.zone/logos/kotlin/kotlin-icon.svg"
+      alt="kotlin"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+      alt="flask"
       width="40"
       height="40"
     />
@@ -90,14 +98,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
-  </a>
+
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
