@@ -9,7 +9,7 @@
 <h3 align="center">Check my highlights</h3>
 
 - 💎 Check out my Ruby gem: [sinatra-my-params](https://rubygems.org/gems/sinatra-my-params)
-- 👁 A custom browser extension to block undesired recommendations on YouTube main page: [browser-extension](https://github.com/mhero/js-browser-yt-blocker)
+- 🚫 A simple browser extension to block unwanted recommendations on YouTube's homepage: [browser-extension](https://github.com/mhero/js-browser-yt-blocker)
 
 <h4 align="left">Languages:</h4>
 <p align="left">
