@@ -7,6 +7,7 @@
 - 📫 Reach me at **gdmarav374@gmail.com**
 
 <h3 align="center">Check my highlights</h3>
+
 - 💎 Check out my Ruby gem: [sinatra-my-params](https://rubygems.org/gems/sinatra-my-params)
 - 👁 A custom browser extension to block undesired recommendations on YouTube main page: [browser-extension](https://github.com/mhero/js-browser-yt-blocker)
 
