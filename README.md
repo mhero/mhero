@@ -2,7 +2,6 @@
 <h3 align="left">A multi-language developer</h3>
 
 - 🔭 Currently working with **Java, Ruby, JavaScript, and more. All languages are fun!**
-- 🌱 Learning **Kotlin**
 - 👯 Open to collaborations on **open-source and fun projects!**
 - 📫 Reach me at **gdmarav374@gmail.com**
 
