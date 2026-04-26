@@ -56,11 +56,3 @@
   <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36"/></a>&nbsp;
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36"/></a>
 </p>
-
-<h3 align="left">Support:</h3>
-<p align="left">If you like any of my projects, feel free to <a href="https://ko-fi.com/theoneandonlymark">buy me a coffee</a>!</p>
-<p>
-  <a href="https://ko-fi.com/theoneandonlymark">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210"/>
-  </a>
-</p>
